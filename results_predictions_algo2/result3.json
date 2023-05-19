@@ -1,0 +1,3082 @@
+{
+    "B082T6CKGK": {
+        "name": "Panasonic 8 kg 5 Star Semi-Automatic Top Loading Washing Machine with Powerful Motor (NA-W80B5ARB, Blue, Active Foam System)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.7252632220038351
+            },
+            {
+                "Material": 0.49113193607869987
+            },
+            {
+                "Certification": 0.27410831099661614
+            },
+            {
+                "Product Dimensions": 0.09301900174162947
+            },
+            {
+                "Batteries Included": 0.07116611582533368
+            }
+        ]
+    },
+    "B0BBMX3NNF": {
+        "name": "LG 8 Kg 5 Star Inverter Fully-Automatic Front Loading Washing Machine with Inbuilt heater (FHV1408Z2M, Middle Black, AI DD Technology & Steam for Hygiene)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.7156390702443998
+            },
+            {
+                "Material": 0.47072565429427404
+            },
+            {
+                "Date First Available": 0.2849221081027405
+            },
+            {
+                "Best Sellers Rank": 0.27574488556828813
+            },
+            {
+                "Generic Name": 0.16674050706436686
+            }
+        ]
+    },
+    "B083G25P9L": {
+        "name": "Whirlpool 7.5 Kg 5 Star Semi-Automatic Top Loading Washing Machine (ACE 7.5 SUPREME, Grey Dazzle)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.7129801916344193
+            },
+            {
+                "Material": 0.5688336874861378
+            },
+            {
+                "Colour": 0.5633922737573358
+            },
+            {
+                "Access Location": 0.5322374344118718
+            },
+            {
+                "Special Features": 0.5011950849647934
+            }
+        ]
+    },
+    "B08GXYZFNB": {
+        "name": "Samsung 7 kg Fully-Automatic Top Loading Washing Machine (WA70A4002GS/TL, Imperial Silver, Diamond drum)",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.7082718560511441
+            },
+            {
+                "Manufacturer": 0.5202583681280765
+            },
+            {
+                "Country of Origin": 0.5149325988847
+            },
+            {
+                "Certification": 0.3359532254120297
+            },
+            {
+                "Batteries Included": 0.16389927434114326
+            }
+        ]
+    },
+    "B09TXYDSPQ": {
+        "name": "LG 8.5 kg 5 Star Semi-Automatic Top Load Washing Machine (P8535SKMZ, Middle Black, Roller Jet Pulsator)",
+        "predicted_attributes": [
+            {
+                "Model": 0.6977270454207273
+            },
+            {
+                "Date First Available": 0.33589960167033933
+            },
+            {
+                "Certification": 0.320034323694047
+            },
+            {
+                "Energy Efficiency": 0.09047007348268302
+            },
+            {
+                "Annual Energy Consumption": 0.0676029265319674
+            }
+        ]
+    },
+    "B08J3KFLBT": {
+        "name": "Bosch 8 kg 5 Star 1400RPM INVERTER TOUCH CONTROL Fully Automatic Front Load with Heater Silver\u00a0 (WAJ28262IN)",
+        "predicted_attributes": [
+            {
+                "Model": 0.6831758574112455
+            },
+            {
+                "ASIN": 0.3950301705827472
+            },
+            {
+                "Date First Available": 0.348952113276555
+            },
+            {
+                "Certification": 0.3208750522805385
+            },
+            {
+                "Net Quantity": 0.24383100107256755
+            }
+        ]
+    },
+    "B0BBMSLTM1": {
+        "name": "LG 9 Kg 5 Star Inverter Wi-Fi Fully-Automatic Front Loading Washing Machine with Inbuilt heater (FHV1409Z4M, Middle Black, AI DD Technology & Steam for Hygiene)",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.668997317126004
+            },
+            {
+                "Access Location": 0.5089944048345638
+            },
+            {
+                "Generic Name": 0.2032892068601248
+            },
+            {
+                "Item Dimensions LxWxH": 0.19530825692227527
+            },
+            {
+                "Net Quantity": 0.1919328684894761
+            }
+        ]
+    },
+    "B07WSQDKB5": {
+        "name": "LG 9 kg 5 Star Semi-Automatic Top Loading Washing Machine (P9040RGAZ, Grey, Lint collector)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.6641079506419985
+            },
+            {
+                "Capacity": 0.6137216983786952
+            },
+            {
+                "Maximum Rotational Speed": 0.570963795990439
+            },
+            {
+                "Material": 0.5430334947352359
+            },
+            {
+                "Colour": 0.5338750715615822
+            }
+        ]
+    },
+    "B07WGD8QQT": {
+        "name": "Whirlpool 7 Kg 5 Star Semi-Automatic Top Loading Washing Machine (SUPERB ATOM 70I Grey Dazzle, TurboScrub Technology)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.6441445629650058
+            },
+            {
+                "Special Features": 0.4329013437068298
+            },
+            {
+                "Included Components": 0.4271525071983948
+            },
+            {
+                "Country of Origin": 0.3586343253319373
+            },
+            {
+                "Best Sellers Rank": 0.3172867284950286
+            }
+        ]
+    },
+    "B08HNYCJHX": {
+        "name": "IFB 7 Kg 5 Star Fully-Automatic Top Loading Washing Machine (TL-RGS Aqua, Grey,Auto Imbalance System,3D Wash Technology)",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.6438076784354007
+            },
+            {
+                "Special Features": 0.5125856562876101
+            },
+            {
+                "Manufacturer": 0.4559266309144602
+            },
+            {
+                "Certification": 0.3056781215532736
+            },
+            {
+                "Item Dimensions LxWxH": 0.21955948825051644
+            }
+        ]
+    },
+    "B08Y8K3832": {
+        "name": "Haier 6.5 Kg Semi-Automatic Top Loading Washing Machine with 1300 RPM, Rust Free Cabinet (HTW65-187BO, Burgundy)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.632973419111489
+            },
+            {
+                "Capacity": 0.6123711781356891
+            },
+            {
+                "Model": 0.5610057172388369
+            },
+            {
+                "Manufacturer": 0.38672989771527616
+            },
+            {
+                "ASIN": 0.33773508130332885
+            }
+        ]
+    },
+    "B08QNZTQ96": {
+        "name": "Whirlpool 6.5 Kg 5 Star Royal Fully-Automatic Top Loading Washing Machine (WHITEMAGIC ROYAL 6.5 GENX, Grey, Hard Water Wash)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.6316610240431514
+            },
+            {
+                "Part Number": 0.5975996590140165
+            },
+            {
+                "Model": 0.5669937947155623
+            },
+            {
+                "Maximum Rotational Speed": 0.5073438872978948
+            },
+            {
+                "Material": 0.4940400849243798
+            }
+        ]
+    },
+    "B09Q94H46F": {
+        "name": "LG 6.5 Kg 5 Star Inverter Touch Panel Fully-Automatic Front Load Washing Machine (FHM1065SDW, White, With Steam Wash)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.6300942330220124
+            },
+            {
+                "Maximum Rotational Speed": 0.5055304658244153
+            },
+            {
+                "Special Features": 0.46036531836721517
+            },
+            {
+                "Manufacturer": 0.36471209305488356
+            },
+            {
+                "Date First Available": 0.2258069237290501
+            }
+        ]
+    },
+    "B09R72WXSS": {
+        "name": "IFB 7 Kg 5 Star Front Load Washing Machine 2X Power Steam (NEO DIVA VXS 7010, White, In-built Heater, 4 years Comprehensive Warranty )",
+        "predicted_attributes": [
+            {
+                "Model": 0.6263742926244221
+            },
+            {
+                "Maximum Rotational Speed": 0.5621438858227402
+            },
+            {
+                "Material": 0.5095619771853158
+            },
+            {
+                "Batteries Included": 0.07547268730413328
+            },
+            {
+                "Product Dimensions": 0.06791678176901575
+            }
+        ]
+    },
+    "B08QP41KBP": {
+        "name": "Whirlpool 7 Kg 5 Star Royal Fully-Automatic Top Loading Washing Machine (WHITEMAGIC ROYAL 7.0 GENX, Grey, Hard Water Wash)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.623647099523159
+            },
+            {
+                "Colour": 0.44774071247186625
+            },
+            {
+                "Batteries Required": 0.3685281903936499
+            },
+            {
+                "Country of Origin": 0.34583296965638594
+            },
+            {
+                "Customer Reviews": 0.30498659463204264
+            }
+        ]
+    },
+    "B08HNW9FNY": {
+        "name": "IFB 6.5 Kg 5 Star Top Load Washing Machine Aqua Conserve (TL-RSS 6.5KG AQUA, Light Grey, Hard Water Wash, 4 Years Comprehensive Warranty)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.6219202866318042
+            },
+            {
+                "Colour": 0.4445407199704931
+            },
+            {
+                "Access Location": 0.41432042619647014
+            },
+            {
+                "ASIN": 0.2808163388756112
+            },
+            {
+                "Customer Reviews": 0.27578691360558677
+            }
+        ]
+    },
+    "B082FJMJNN": {
+        "name": "Whirlpool 7 Kg 5 Star Royal Plus Fully-Automatic Top Loading Washing Machine (WHITEMAGIC ROYAL PLUS 7.0, Grey, Hard Water Wash)",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.6152221146382001
+            },
+            {
+                "Access Location": 0.4560238815112105
+            },
+            {
+                "Batteries Required": 0.45315833820177337
+            },
+            {
+                "Certification": 0.2834521656638179
+            },
+            {
+                "Generic Name": 0.13611325073199707
+            }
+        ]
+    },
+    "B075FLSFS3": {
+        "name": "Onida 9.0 kg Top Load Washer Only (W90W, Lava Red)",
+        "predicted_attributes": [
+            {
+                "Model": 0.6149143969540147
+            },
+            {
+                "Access Location": 0.4986170110715878
+            },
+            {
+                "Special Features": 0.4969819705324621
+            },
+            {
+                "Batteries Required": 0.48588999895674956
+            },
+            {
+                "Customer Reviews": 0.3863359667412309
+            }
+        ]
+    },
+    "B09FHRY2RF": {
+        "name": "LG 11 kg 5 Star Semi-Automatic Top Loading Washing Machine (P1155SKAZ, Middle Black, Roller Jet Pulsator), large",
+        "predicted_attributes": [
+            {
+                "Brand": 0.6111080996421387
+            },
+            {
+                "Part Number": 0.5316828903604732
+            },
+            {
+                "Special Features": 0.448107262688222
+            },
+            {
+                "Included Components": 0.43450620332021844
+            },
+            {
+                "Batteries Required": 0.424118255018076
+            }
+        ]
+    },
+    "B09KGW3NWL": {
+        "name": "Samsung 8 Kg 5 Star Inverter, Hygiene Steam Fully-Automatic Front Loading Washing Machine (WW80T4040CE1TL, White)",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.6098813787879409
+            },
+            {
+                "Batteries Required": 0.4108888464282795
+            },
+            {
+                "Certification": 0.26584631818834276
+            },
+            {
+                "Item Dimensions LxWxH": 0.22368612862382148
+            },
+            {
+                "Packer": 0.22183842060347578
+            }
+        ]
+    },
+    "B084LF24Z8": {
+        "name": "LG 6.5 Kg 5 Star Smart Inverter Fully-Automatic Top Loading Washing Machine (T65SKSF4Z, Middle Free Silver)",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.6074821837147045
+            },
+            {
+                "Capacity": 0.5984267571840588
+            },
+            {
+                "Included Components": 0.49392432729545904
+            },
+            {
+                "Access Location": 0.48762972097740354
+            },
+            {
+                "Manufacturer": 0.4638608189401089
+            }
+        ]
+    },
+    "B08CHFTJHZ": {
+        "name": "LG 8 Kg 5 Star Semi-Automatic Top Loading Washing Machine (P8030SRAZ, Burgundy, Collar Scrubber)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.6048032727388453
+            },
+            {
+                "Model": 0.5521024427449268
+            },
+            {
+                "Special Features": 0.4320461799757147
+            },
+            {
+                "Access Location": 0.41401188597995314
+            },
+            {
+                "Country of Origin": 0.33048393274354354
+            }
+        ]
+    },
+    "B09CMTKT9X": {
+        "name": "LG 8.5 Kg 5 Star Semi-Automatic Top Loading Washing Machine (P8535SPMZ, Purple, Roller Jet Pulsator), Large",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.597625901561684
+            },
+            {
+                "Model": 0.5551924681822222
+            },
+            {
+                "Colour": 0.49639599186111705
+            },
+            {
+                "Included Components": 0.4517926297078206
+            },
+            {
+                "ASIN": 0.3410400762823614
+            }
+        ]
+    },
+    "B09T6NX8W2": {
+        "name": "Samsung 6.5 Kg 5 Star Semi-Automatic Top Loading Washing Machine (WT65R2200LL/TL, Blue, Air Turbo Drying System)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.5972944144343454
+            },
+            {
+                "Capacity": 0.5531079648109818
+            },
+            {
+                "Model": 0.5097032985178704
+            },
+            {
+                "Batteries Required": 0.3415939426009932
+            },
+            {
+                "Best Sellers Rank": 0.22806057965677684
+            }
+        ]
+    },
+    "B0BB82B7MT": {
+        "name": "Sansui 7 kg Semi Automatic Top Load Washing Machine JSP70S-2024L (Burgundy) With Hexa Flow Pulsator",
+        "predicted_attributes": [
+            {
+                "Brand": 0.5964644052250873
+            },
+            {
+                "Included Components": 0.3999537085263964
+            },
+            {
+                "Special Features": 0.3699574795695508
+            },
+            {
+                "Access Location": 0.3583649769965023
+            },
+            {
+                "Country of Origin": 0.3290487444003242
+            }
+        ]
+    },
+    "B0BMGD9Y2X": {
+        "name": "LG 7 Kg 5 Star Inverter Touch panel Fully-Automatic Front Load Washing Machine with In-Built Heater (FHM1207SDM, Middle Black, Steam for Hygiene Wash)",
+        "predicted_attributes": [
+            {
+                "Model": 0.5930747089963365
+            },
+            {
+                "Colour": 0.5190766237595973
+            },
+            {
+                "Included Components": 0.5149903495848311
+            },
+            {
+                "Access Location": 0.47754364005440686
+            },
+            {
+                "Customer Reviews": 0.35543647080712887
+            }
+        ]
+    },
+    "B09KGY7S81": {
+        "name": "Samsung 7 Kg 5 Star Inverter, Hygiene Steam Fully-Automatic Front Loading Washing Machine (WW70T4020EE1TL, White, Diamond Drum)",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.5876109702930085
+            },
+            {
+                "Maximum Rotational Speed": 0.5189434710162588
+            },
+            {
+                "Material": 0.4553364646025715
+            },
+            {
+                "Date First Available": 0.23285249029638794
+            },
+            {
+                "Batteries Included": 0.05215853210031418
+            }
+        ]
+    },
+    "B0B7JTWLMJ": {
+        "name": "Samsung 8.5 kg 5 Star Semi-Automatic Top Loading Washing Machine (WT85B4200GG/TL, Light Grey, Air turbo drying)",
+        "predicted_attributes": [
+            {
+                "Maximum Rotational Speed": 0.5826713185893477
+            },
+            {
+                "Certification": 0.2934157455274162
+            },
+            {
+                "Generic Name": 0.12582593400181732
+            },
+            {
+                "Product Dimensions": 0.10428495421650028
+            },
+            {
+                "Batteries Included": 0.09051462914774447
+            }
+        ]
+    },
+    "B09DD573SY": {
+        "name": "LG 7 Kg 5 Star Semi-Automatic Top Loading Washing Machine (P7020NGAZ, Dark Gray, Wind Jet Dry)",
+        "predicted_attributes": [
+            {
+                "Model": 0.5818297785578196
+            },
+            {
+                "Maximum Rotational Speed": 0.541044580492106
+            },
+            {
+                "Included Components": 0.5294521668219022
+            },
+            {
+                "Colour": 0.5211615300184421
+            },
+            {
+                "Material": 0.49967664338911755
+            }
+        ]
+    },
+    "B084CMDS7B": {
+        "name": "Whirlpool 7.5 Kg 5 Star Fully-Automatic Top Loading Washing Machine with In-Built Heater (360 BLOOMWASH PRO (540) H 7.5, Graphite, Hexa Bloom Impeller)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.580691555470861
+            },
+            {
+                "Colour": 0.4523921927808618
+            },
+            {
+                "Maximum Rotational Speed": 0.44302078491765506
+            },
+            {
+                "Included Components": 0.43220691093298086
+            },
+            {
+                "Special Features": 0.4048651009398407
+            }
+        ]
+    },
+    "B097K6XBG2": {
+        "name": "IFB 7.0 Kg 5 Star Top Load Washing Machine Aqua Conserve (TL-RES 7.0KG AQUA, Light Grey, Hard Water Wash, 4 Years Comprehensive Warranty)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.5790046350075222
+            },
+            {
+                "Included Components": 0.413145238822565
+            },
+            {
+                "Colour": 0.40991704779087
+            },
+            {
+                "Material": 0.37766679953896
+            },
+            {
+                "Certification": 0.21578773029465334
+            }
+        ]
+    },
+    "B084R6N14J": {
+        "name": "IFB 6.5 Kg 5 Star Top Load Washing Machine Aqua Conserve (TL-REW 6.5KG AQUA, White, Hard Water Wash, 4 Years Comprehensive Warranty)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.57531346079905
+            },
+            {
+                "Model": 0.5316632139331305
+            },
+            {
+                "Colour": 0.4281910161633348
+            },
+            {
+                "Manufacturer": 0.3407971908309464
+            },
+            {
+                "Certification": 0.242242339737816
+            }
+        ]
+    },
+    "B08L52H9BJ": {
+        "name": "LG 10 Kg 5 Star Smart Inverter Fully-Automatic Top Load Washing Machine (T10SJMB1Z, Middle Black, TurboDrum | Jet Spray+)",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.5734573755705528
+            },
+            {
+                "Model": 0.5379264256934464
+            },
+            {
+                "Special Features": 0.4477462500087951
+            },
+            {
+                "Access Location": 0.4393587266409505
+            },
+            {
+                "Batteries Required": 0.42516644985087104
+            }
+        ]
+    },
+    "B084LGQKD7": {
+        "name": "Samsung 6.0 Kg Inverter 5 Star Fully-Automatic Front Loading Washing Machine (WW60R20GLMA/TL, White, Hygiene Steam)",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.5638296237464906
+            },
+            {
+                "Maximum Rotational Speed": 0.5108773511339009
+            },
+            {
+                "Country of Origin": 0.32220528005882176
+            },
+            {
+                "ASIN": 0.30903916694775196
+            },
+            {
+                "Best Sellers Rank": 0.27899749930336026
+            }
+        ]
+    },
+    "B00O21VEKI": {
+        "name": "IFB 5.5 kg Fully-automatic Dryer (TURBO DRY,white,Inbuilt Heater, Allergy Free Technology",
+        "predicted_attributes": [
+            {
+                "Brand": 0.5550771146418122
+            },
+            {
+                "Maximum Rotational Speed": 0.4180989930546789
+            },
+            {
+                "Colour": 0.41606898838877704
+            },
+            {
+                "Access Location": 0.387589911978039
+            },
+            {
+                "Special Features": 0.3856766526047084
+            }
+        ]
+    },
+    "B09ZBJRGWH": {
+        "name": "IFB 6 Kg 5 Star Front Load Washing Machine 2X Power Steam (DIVA AQUA BXS 6008, White & Black, In-built Heater, 4 years Comprehensive Warranty)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.5507213769855428
+            },
+            {
+                "Capacity": 0.5074534732144194
+            },
+            {
+                "Model": 0.47786014085484024
+            },
+            {
+                "Included Components": 0.38660130713513735
+            },
+            {
+                "Access Location": 0.36848224080889275
+            }
+        ]
+    },
+    "B09FLBJDNZ": {
+        "name": "LG 7.5 Kg 5 Star Semi-Automatic Top Loading Washing Machine (P7525SPAZ, Purple, Roller Jet Pulsator)",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.5506585059477584
+            },
+            {
+                "Model": 0.5167447024382448
+            },
+            {
+                "Included Components": 0.4154103732120895
+            },
+            {
+                "Access Location": 0.39126242183086263
+            },
+            {
+                "ASIN": 0.296391726934773
+            }
+        ]
+    },
+    "B00ZOPZSSU": {
+        "name": "Onida 6.5 kg Top Load Washer Only (WS65WLPT1LR Liliput, Lava Red)",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.547878683701659
+            },
+            {
+                "Included Components": 0.43150532563554156
+            },
+            {
+                "Special Features": 0.4275572037105357
+            },
+            {
+                "Batteries Required": 0.4076656782008041
+            },
+            {
+                "ASIN": 0.32515682189903583
+            }
+        ]
+    },
+    "B0B2RTBFWM": {
+        "name": "ONIDA 8 kg 5 Star Fully Automatic Top Load Washing Machine (T80CMB, Black, Hexa Crystal Drum)",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.5474971918315896
+            },
+            {
+                "Part Number": 0.545962328735874
+            },
+            {
+                "Colour": 0.5079021881396262
+            },
+            {
+                "Special Features": 0.46335791942175286
+            },
+            {
+                "Manufacturer": 0.41556265377592216
+            }
+        ]
+    },
+    "B0B8NK5HTH": {
+        "name": "Samsung 8 Kg Inverter 5 Star Fully-Automatic Top Load Ecobubble Washing Machine (WA80BG4441BGTL, Bubble Storm Technology, Light Gray)",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.5468323202035765
+            },
+            {
+                "Maximum Rotational Speed": 0.4801513406198807
+            },
+            {
+                "Material": 0.4247497650829845
+            },
+            {
+                "Certification": 0.240475812440776
+            },
+            {
+                "Date First Available": 0.2109295090430224
+            }
+        ]
+    },
+    "B0B8NHX62W": {
+        "name": "Samsung 7 Kg Inverter 5 Star Fully-Automatic Top Load Eco Bubble Washing Machine (WA70BG4441YYTL, Bubble Storm Technology, Lavender Gray)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.5415308225471906
+            },
+            {
+                "Model": 0.4686312832266929
+            },
+            {
+                "Colour": 0.44207290508792646
+            },
+            {
+                "Maximum Rotational Speed": 0.4225712383774477
+            },
+            {
+                "Special Features": 0.37584770071610824
+            }
+        ]
+    },
+    "B0BB8JTVJR": {
+        "name": "White Westinghouse 6 kg Semi Automatic Top loading washing machine ( CSW6000N, Grey )",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.5391112539474068
+            },
+            {
+                "Colour": 0.4702291001134146
+            },
+            {
+                "Customer Reviews": 0.253839554226937
+            },
+            {
+                "Best Sellers Rank": 0.25121505415636697
+            },
+            {
+                "Item Weight": 0.2270140145210774
+            }
+        ]
+    },
+    "B09ZBKPN6B": {
+        "name": "IFB 6 Kg 5 Star Front Load Washing Machine 2X Power Steam (DIVA PLUS VXS 6008, White, In-built Heater, 4 years Comprehensive Warranty)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.5371071923941588
+            },
+            {
+                "Material": 0.3185667962439763
+            },
+            {
+                "Manufacturer": 0.31445612336337614
+            },
+            {
+                "Access Location": 0.2892394742492377
+            },
+            {
+                "Batteries Required": 0.27764647941166964
+            }
+        ]
+    },
+    "B0861C4YCG": {
+        "name": "Samsung 6.5 Kg 5 Star Inverter Fully-Automatic Top Loading Washing Machine (WA65T4262GG/TL, Gray, Wobble technology)",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.5354857591520006
+            },
+            {
+                "Model": 0.5018209183590507
+            },
+            {
+                "Special Features": 0.4318521660948697
+            },
+            {
+                "Manufacturer": 0.3528874100531347
+            },
+            {
+                "Batteries Required": 0.3384763541395358
+            }
+        ]
+    },
+    "B09QT8B4ML": {
+        "name": "Haier HWM80-AE 8kg Top Load Fully-Automatic Washing Machine (Moonlight Grey, Quick Wash)",
+        "predicted_attributes": [
+            {
+                "Model": 0.5342992556526763
+            },
+            {
+                "Colour": 0.47928519821617527
+            },
+            {
+                "Maximum Rotational Speed": 0.47876493542851956
+            },
+            {
+                "Included Components": 0.45346743283720714
+            },
+            {
+                "Manufacturer": 0.42690123507542194
+            }
+        ]
+    },
+    "B08FMN5ZQM": {
+        "name": "Samsung 6.0 Kg 5 Star Semi-Automatic Top Loading Washing Machine (WT60R2000LL/TL, Light Grey, Center jet technology)",
+        "predicted_attributes": [
+            {
+                "Model": 0.5324283086763073
+            },
+            {
+                "Material": 0.4123741595428515
+            },
+            {
+                "Access Location": 0.40773001711592366
+            },
+            {
+                "Special Features": 0.4070832872125592
+            },
+            {
+                "Packer": 0.16273872020854258
+            }
+        ]
+    },
+    "B0BMGGWGHV": {
+        "name": "LG 8 Kg 5 Star Inverter Touch panel Fully-Automatic Front Load Washing Machine with In-Built Heater (FHM1408BDM, Middle Black, Steam for Hygiene Wash)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.531437123683017
+            },
+            {
+                "Capacity": 0.47298323196033715
+            },
+            {
+                "Part Number": 0.4705267540979184
+            },
+            {
+                "Included Components": 0.4028603279711448
+            },
+            {
+                "Manufacturer": 0.3841941157692616
+            }
+        ]
+    },
+    "B0BGBYGJ3B": {
+        "name": "Samsung 8 Kg '5 star Ecobubble\u2122 Wi-Fi Inverter Fully Automatic Top Load Washing Machine (WA80BG4542BDTL,Versailles Gray), Bubble Storm Technology",
+        "predicted_attributes": [
+            {
+                "Model": 0.5308319131713067
+            },
+            {
+                "Maximum Rotational Speed": 0.4746870884186159
+            },
+            {
+                "Included Components": 0.4226408766882157
+            },
+            {
+                "Certification": 0.23372691718395852
+            },
+            {
+                "Date First Available": 0.2112975707260604
+            }
+        ]
+    },
+    "B0BT22PQF8": {
+        "name": "Whirlpool 8.5 kg 5 Star Semi-Automatic Top Loading Washing Machine (ACE 8.5 TRB DRY GREY DAZZLE (10YR)-N, Grey Dazzle, 2x Drying Power)",
+        "predicted_attributes": [
+            {
+                "Model": 0.5289246022001365
+            },
+            {
+                "Maximum Rotational Speed": 0.48460755112769616
+            },
+            {
+                "Material": 0.4056190739645574
+            },
+            {
+                "Customer Reviews": 0.27947727357418706
+            },
+            {
+                "ASIN": 0.27727173600627664
+            }
+        ]
+    },
+    "B082FJ9RS7": {
+        "name": "Whirlpool 7.5 Kg 5 Star Royal Plus Fully-Automatic Top Loading Washing Machine (WHITEMAGIC ROYAL PLUS 7.5, Grey, Hard Water Wash)",
+        "predicted_attributes": [
+            {
+                "Model": 0.5283575419875313
+            },
+            {
+                "Part Number": 0.5252214342239944
+            },
+            {
+                "Manufacturer": 0.3669184457298809
+            },
+            {
+                "Batteries Required": 0.3585638493964097
+            },
+            {
+                "ASIN": 0.3159496399465393
+            }
+        ]
+    },
+    "B0BH8S16YY": {
+        "name": "IFB 6.5 Kg 5 Star Front Load Washing Machine 2X Power Steam (ELENA SXS 6510, Silver, In-built Heater, 4 years Comprehensive Warranty)",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.5233987965128087
+            },
+            {
+                "Model": 0.479618963568214
+            },
+            {
+                "Maximum Rotational Speed": 0.45347648919719347
+            },
+            {
+                "Access Location": 0.3811768523951835
+            },
+            {
+                "Batteries Required": 0.3595487825994622
+            }
+        ]
+    },
+    "B0BH87KJ8K": {
+        "name": "IFB 8.0 Kg Fully-Automatic Top Loading Washing Machine (TL-SBRS 8.0 KG Aqua, Brown, 2X Power Steam, 4 Years Comprehensive Warranty)",
+        "predicted_attributes": [
+            {
+                "Model": 0.5214142703742743
+            },
+            {
+                "Colour": 0.4942844318411113
+            },
+            {
+                "Maximum Rotational Speed": 0.457619609903094
+            },
+            {
+                "Special Features": 0.4234432280253215
+            },
+            {
+                "Net Quantity": 0.08172858067472008
+            }
+        ]
+    },
+    "B08PZBZD5M": {
+        "name": "Bosch 6 kg 5 Star Inverter Fully Automatic Front Loading Washing Machine with In - built Heater (WLJ2016WIN, White\u00a0)",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.5204869037921068
+            },
+            {
+                "Maximum Rotational Speed": 0.47701349382847563
+            },
+            {
+                "Access Location": 0.39741971184773284
+            },
+            {
+                "Batteries Required": 0.383700120126159
+            },
+            {
+                "Country of Origin": 0.36015458070669465
+            }
+        ]
+    },
+    "B084HSSVHX": {
+        "name": "LG 10.5 Kg / 7.0 Kg Inverter Front Load Wi-Fi Washer Dryer (FHD1057STB, Black Steel, In-built Heater, Turbo Wash)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.5181613700112384
+            },
+            {
+                "Model": 0.4642528861505835
+            },
+            {
+                "Maximum Rotational Speed": 0.4199650527768041
+            },
+            {
+                "Country of Origin": 0.2674466942394798
+            },
+            {
+                "Manufacturer": 0.2615003701177056
+            }
+        ]
+    },
+    "B08DF1Y7T7": {
+        "name": "LG 7 Kg 5 Star Inverter Fully-Automatic Top Loading Washing Machine (T70SKSF1Z, Middle Free Silver, Smart Motion & TurboDrum)",
+        "predicted_attributes": [
+            {
+                "Model": 0.5181265918437719
+            },
+            {
+                "Colour": 0.43795112349396764
+            },
+            {
+                "Access Location": 0.4063708234779642
+            },
+            {
+                "Special Features": 0.3906830922497803
+            },
+            {
+                "Manufacturer": 0.38457996082453294
+            }
+        ]
+    },
+    "B0BS3Z4XK7": {
+        "name": "Voltas beko 7.2 kg Semi Automatic twin tub Washing machine (WTT72) Burgundy",
+        "predicted_attributes": [
+            {
+                "Brand": 0.5175852825139576
+            },
+            {
+                "Model": 0.440462062444111
+            },
+            {
+                "Maximum Rotational Speed": 0.38268958732387426
+            },
+            {
+                "Special Features": 0.3397264182384666
+            },
+            {
+                "Access Location": 0.331786630365748
+            }
+        ]
+    },
+    "B096NQHFRK": {
+        "name": "Midea 7 Kg Fully Automatic Top Load Washing Machine (MA100W70/G-IN, Grey)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.5162770838593699
+            },
+            {
+                "Capacity": 0.4997101324067853
+            },
+            {
+                "Model": 0.47313094275731554
+            },
+            {
+                "Material": 0.4395871023808786
+            },
+            {
+                "Colour": 0.4211097627262184
+            }
+        ]
+    },
+    "B0B1DNMQG6": {
+        "name": "LG 8 Kg 5 Star Inverter Touch Control Fully-Automatic Front Load Washing Machine with In-Built Heater (FHM1408BDW, White, 6 Motion Direct Drive, 1400 RPM & Steam)",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.5129140245860055
+            },
+            {
+                "Special Features": 0.41957321372767786
+            },
+            {
+                "Included Components": 0.3897630451748106
+            },
+            {
+                "Manufacturer": 0.3605550439344607
+            },
+            {
+                "Country of Origin": 0.35583793144902937
+            }
+        ]
+    },
+    "B08B9756FB": {
+        "name": "Panasonic 6 Kg 5 Star Fully-Automatic Top Loading Washing Machine ( NA-F60LF1HRB, Grey, Durable Metal Body, 8 Wash Program, Aquabeat wash technology, One touch smart wash)",
+        "predicted_attributes": [
+            {
+                "Colour": 0.5100534816073476
+            },
+            {
+                "Access Location": 0.48241922147573857
+            },
+            {
+                "Customer Reviews": 0.37462049031631417
+            },
+            {
+                "ASIN": 0.3648098335042591
+            },
+            {
+                "Certification": 0.30591535872273834
+            }
+        ]
+    },
+    "B00RE6RL8M": {
+        "name": "IFB 5.5 kg Fully-automatic Dryer (TURBO DRY EX, Silver, Wall Mountable,Anti crease)",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.5092273276171374
+            },
+            {
+                "Included Components": 0.47751461604822965
+            },
+            {
+                "Colour": 0.4680509466979812
+            },
+            {
+                "Access Location": 0.4305527968467615
+            },
+            {
+                "Special Features": 0.41442132316475633
+            }
+        ]
+    },
+    "B091FPXVHT": {
+        "name": "Samsung 9.5kg Semi Automatic Top Loading Washing Machine (WT95A4200LL, Blue)",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.507626941820031
+            },
+            {
+                "Colour": 0.4376070297378264
+            },
+            {
+                "Material": 0.4131050652055597
+            },
+            {
+                "Special Features": 0.3856866905888354
+            },
+            {
+                "Country of Origin": 0.340854741643189
+            }
+        ]
+    },
+    "B08R8DGDSK": {
+        "name": "Whirlpool 6 Kg 5 Star Royal Fully-Automatic Top Loading Washing Machine (WHITEMAGIC ROYAL 6.0 GENX, Satin Grey, Hard Water Wash)",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.5038895749679448
+            },
+            {
+                "Capacity": 0.49803268041812837
+            },
+            {
+                "Special Features": 0.42764929448225886
+            },
+            {
+                "Included Components": 0.4081980238655162
+            },
+            {
+                "Batteries Required": 0.39482143594221764
+            }
+        ]
+    },
+    "B08SR3GJRS": {
+        "name": "Bosch 6.5kg 5 Star 1000RPM INVERTER TOUCH CONTROL Fully Automatic Front Load with Heater White(WLJ2006EIN)",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.5027258059635064
+            },
+            {
+                "Model": 0.45636817979846733
+            },
+            {
+                "Maximum Rotational Speed": 0.43870984440927224
+            },
+            {
+                "Special Features": 0.39918837725227674
+            },
+            {
+                "Material": 0.3910136454205583
+            }
+        ]
+    },
+    "B0BVBR3RP3": {
+        "name": "Hilton 3 kg Single-Tub Washing Machine with Spin Dryer Portable Single Tub Washer - The Laundry Alternative Portable Clothes Washer Travel Washing Machine With Spin Dryer. (Blue)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.5019533545961846
+            },
+            {
+                "Model": 0.43027083061122007
+            },
+            {
+                "Maximum Rotational Speed": 0.3846520759692665
+            },
+            {
+                "Colour": 0.37707718117056266
+            },
+            {
+                "Included Components": 0.3313180771587327
+            }
+        ]
+    },
+    "B09N9BKYN9": {
+        "name": "Whirlpool 8 Kg 5 Star Semi-Automatic Top Loading Washing Machine (ACE 8.0 TRB DRY GREY DAZZLE (10YR)-NH)",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.5014269668203606
+            },
+            {
+                "Maximum Rotational Speed": 0.4144359092846094
+            },
+            {
+                "Included Components": 0.41168988385114563
+            },
+            {
+                "Material": 0.3768940421427904
+            },
+            {
+                "Certification": 0.2194662756091015
+            }
+        ]
+    },
+    "B08ZJHJ5DJ": {
+        "name": "Haier HWM70-AE 7Kg Top Loading Washing Machine (Moonlight Grey, Quick Wash)",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.4956252492828984
+            },
+            {
+                "Colour": 0.4414499312476912
+            },
+            {
+                "Maximum Rotational Speed": 0.42612182892287537
+            },
+            {
+                "Batteries Required": 0.3401480083245705
+            },
+            {
+                "ASIN": 0.2728436086089777
+            }
+        ]
+    },
+    "B09N9NMF3G": {
+        "name": "IFB 7 Kg 5 Star Front Load Washing Machine 2X Power Steam (SERENA ZSS 7010, Silver & Black, In-built Heater, 4 years Comprehensive Warranty)",
+        "predicted_attributes": [
+            {
+                "Colour": 0.4914804088166316
+            },
+            {
+                "Access Location": 0.43691942340177087
+            },
+            {
+                "Special Features": 0.4288873580835018
+            },
+            {
+                "Country of Origin": 0.37618475776591037
+            },
+            {
+                "Installation Type": 0.053371387249798535
+            }
+        ]
+    },
+    "B0B38PYBZ8": {
+        "name": "IFB 11.0 Kg 5 Star Top Load Washing Machine Aqua Conserve (TL-SIBS 11.0KG AQUA, Inox, 2X Power Steam, 4 Years Comprehensive Warranty)",
+        "predicted_attributes": [
+            {
+                "Material": 0.49007235821971673
+            },
+            {
+                "Access Location": 0.4378498094206224
+            },
+            {
+                "Special Features": 0.4374752334185986
+            },
+            {
+                "Certification": 0.27243250705125693
+            },
+            {
+                "Net Quantity": 0.14113642158457312
+            }
+        ]
+    },
+    "B0BV2RJV1B": {
+        "name": "Samsung 9.5 Kg 5 Star Semi Automatic Top Loading Washing Machine (WT95A4260GD/TL,Dark Gray)",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.48602352839000434
+            },
+            {
+                "Model": 0.4592914232153219
+            },
+            {
+                "Maximum Rotational Speed": 0.42109570007896807
+            },
+            {
+                "Material": 0.40270678652772457
+            },
+            {
+                "Access Location": 0.3767741061273522
+            }
+        ]
+    },
+    "B07W94JJH2": {
+        "name": "Panasonic 6.7 kg Built-in Heater Fully-Automatic Top Loading Washing Machine (NA-F67BH8MRB,Middle free silver,Active Foam System) with Water Reuse",
+        "predicted_attributes": [
+            {
+                "Brand": 0.48540340872087867
+            },
+            {
+                "Capacity": 0.46316000597710266
+            },
+            {
+                "Model": 0.4407860158692608
+            },
+            {
+                "Colour": 0.3683910764793965
+            },
+            {
+                "Access Location": 0.3456678158231295
+            }
+        ]
+    },
+    "B0BS6RFKKL": {
+        "name": "Godrej 7 Kg 5 Star Semi-Automatic Top Loading Washing Machine (WS EDGE CLS 70 5.0 PN2 GPGR, Graphite Grey, 460 W PowerMax Wash)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.4852967945979967
+            },
+            {
+                "Capacity": 0.4680905240397441
+            },
+            {
+                "Model": 0.4364241341085041
+            },
+            {
+                "Maximum Rotational Speed": 0.432824715632881
+            },
+            {
+                "Included Components": 0.3845421521686676
+            }
+        ]
+    },
+    "B09LLKDWSF": {
+        "name": "LG 8.0 Kg 5 Star Inverter Touch Control Fully-Automatic Front Load Washing Machine with Heater(FHM1408BDL, Silver, 6 Motion Direct Drive)",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.48515304914243884
+            },
+            {
+                "Model": 0.48288172359491677
+            },
+            {
+                "Colour": 0.44844443128443756
+            },
+            {
+                "Access Location": 0.4193178948090034
+            },
+            {
+                "Special Features": 0.3939371260532962
+            }
+        ]
+    },
+    "B07BNLKS7V": {
+        "name": "Whirlpool 10.5 kg 5 Star Semi-Automatic Top Loading Washing Machine (ACE XL 10.5, Graphite Grey, 3D Scrub Technology)",
+        "predicted_attributes": [
+            {
+                "Maximum Rotational Speed": 0.4830401996655315
+            },
+            {
+                "Batteries Required": 0.36390607152803184
+            },
+            {
+                "ASIN": 0.299067573022423
+            },
+            {
+                "Date First Available": 0.24242298076750754
+            },
+            {
+                "Certification": 0.24073704086430334
+            }
+        ]
+    },
+    "B08DF1ZM2C": {
+        "name": "LG 7 Kg 5 Star Inverter Fully-Automatic Top Loading Washing Machine (T70SJMB1Z, Middle Black, Jet Spray+)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.4821997358307137
+            },
+            {
+                "Part Number": 0.39719562748945453
+            },
+            {
+                "Special Features": 0.3225847028176262
+            },
+            {
+                "Included Components": 0.2986348476393191
+            },
+            {
+                "Country of Origin": 0.2689803320278059
+            }
+        ]
+    },
+    "B08WBVTXKY": {
+        "name": "Whirlpool 6.5 Kg 5 Star Royal Fully-Automatic Top Loading Washing Machine (WHITEMAGIC ROYAL PLUS 6.5, Grey, In-Built Heater)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.47680826573539
+            },
+            {
+                "Colour": 0.35605260451152426
+            },
+            {
+                "Maximum Rotational Speed": 0.3468425426636231
+            },
+            {
+                "Special Features": 0.3102142517149391
+            },
+            {
+                "Certification": 0.18759949181833227
+            }
+        ]
+    },
+    "B0BHSL6LDK": {
+        "name": "IFB 9 Kg 5 Star Front Load Washing Machine 2X Power Steam (EXECUTIVE PLUS MXS, Mocha, In-built Heater, 4 years Comprehensive Warranty)",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.47658851857201806
+            },
+            {
+                "Model": 0.4511132737241885
+            },
+            {
+                "Maximum Rotational Speed": 0.39289650188322744
+            },
+            {
+                "Access Location": 0.3483888024484805
+            },
+            {
+                "ASIN": 0.23668332934550082
+            }
+        ]
+    },
+    "B0BSFBRVSG": {
+        "name": "ONIDA 7 kg Semi Automatic Top Load Grey (S70GR,Grey, 5 Spin Storm Pulsator)",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.47446193270292714
+            },
+            {
+                "Part Number": 0.46552328642021074
+            },
+            {
+                "Special Features": 0.38978234806084894
+            },
+            {
+                "Country of Origin": 0.279505241681157
+            },
+            {
+                "ASIN": 0.2657592511197523
+            }
+        ]
+    },
+    "B08B98715P": {
+        "name": "Panasonic 6.5 kg 5 Star Semi-Automatic Top Loading Washing Machine (NA-W65E5ARB, Blue, Powerful Motor, Active Foam System, Effective Wash Pulsator )",
+        "predicted_attributes": [
+            {
+                "Model": 0.47127384240425585
+            },
+            {
+                "Colour": 0.39197609600045236
+            },
+            {
+                "Access Location": 0.37120079041508586
+            },
+            {
+                "Special Features": 0.3580501213569749
+            },
+            {
+                "Batteries Required": 0.3260944088468181
+            }
+        ]
+    },
+    "B09KGVKZXS": {
+        "name": "Samsung 8 Kg 5 Star AI Control & Wi-Fi, Fully-Automatic Front Loading Washing Machine (WW80T504DAB1TL, Black Caviar, Digital Inverter)",
+        "predicted_attributes": [
+            {
+                "Special Features": 0.47071710066868955
+            },
+            {
+                "Best Sellers Rank": 0.28114620793253914
+            },
+            {
+                "Certification": 0.2766001656785846
+            },
+            {
+                "Batteries Included": 0.07112316573232212
+            },
+            {
+                "Special Feature": 0.07064072578120563
+            }
+        ]
+    },
+    "B083G1WGLF": {
+        "name": "Whirlpool 6 Kg 5 Star Semi-Automatic Top Loading Washing Machine (SUPERB ATOM 60I, Grey Dazzle)",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.4683486331809243
+            },
+            {
+                "Colour": 0.41063139540558846
+            },
+            {
+                "Maximum Rotational Speed": 0.3936391147265526
+            },
+            {
+                "Batteries Required": 0.339230139922763
+            },
+            {
+                "Country of Origin": 0.3082288076219638
+            }
+        ]
+    },
+    "B0B2RTDYPN": {
+        "name": "ONIDA 7 kg 5 Star Fully Automatic Top Load Washing Machine(T70CMLG, Light Grey, Hexa Crystal Drum)",
+        "predicted_attributes": [
+            {
+                "Included Components": 0.46749570877093133
+            },
+            {
+                "Material": 0.4376772733015336
+            },
+            {
+                "Access Location": 0.4039025917941748
+            },
+            {
+                "Annual Energy Consumption": 0.030320849145909295
+            },
+            {
+                "Batteries Included": 0.030088342811357145
+            }
+        ]
+    },
+    "B0BS6QR7DF": {
+        "name": "Godrej 7.5 Kg 5 Star Semi-Automatic Top Loading Washing Machine (WS EDGE CLS 75 5.0 PN2 GPGR, Graphite Grey, 460 W powerMax Wash)",
+        "predicted_attributes": [
+            {
+                "Colour": 0.4620032617021661
+            },
+            {
+                "Maximum Rotational Speed": 0.45662091620988204
+            },
+            {
+                "Material": 0.4425582060578807
+            },
+            {
+                "Batteries Required": 0.4132354179568733
+            },
+            {
+                "Special Features": 0.40352301155882975
+            }
+        ]
+    },
+    "B0BGL7XD77": {
+        "name": "Samsung 10 Kg 5 Star Ecobubble Wi-Fi Inverter Fully Automatic Top Load Washing Machine (WA10BG4546BDTL_Versailles Gray), Bubble Storm & Super Speed technology",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.4611150786084315
+            },
+            {
+                "Model": 0.4314802673481194
+            },
+            {
+                "Maximum Rotational Speed": 0.41550051591694215
+            },
+            {
+                "Manufacturer": 0.3658469252902714
+            },
+            {
+                "Included Components": 0.36288142187149103
+            }
+        ]
+    },
+    "B09KGYCR7Z": {
+        "name": "Samsung 7 Kg 5 Star AI Control & Wi-Fi, Fully-Automatic Front Loading Washing Machine (WW70T502NAN1TL, Inox, Digital Inverter)",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.4592671324632215
+            },
+            {
+                "Colour": 0.40603294052622524
+            },
+            {
+                "Country of Origin": 0.2737497852626456
+            },
+            {
+                "Customer Reviews": 0.23264003707943195
+            },
+            {
+                "Best Sellers Rank": 0.2298533071060853
+            }
+        ]
+    },
+    "B084CM7DT2": {
+        "name": "Whirlpool 6.5 Kg 5 Star Fully-Automatic Top Loading Washing Machine with In-Built Heater (STAINWASH PRO H 6.5, Shiny Grey)",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.45912524588443
+            },
+            {
+                "Colour": 0.36425815615938795
+            },
+            {
+                "Manufacturer": 0.27315287276946326
+            },
+            {
+                "ASIN": 0.2202508741589593
+            },
+            {
+                "Certification": 0.1910804117741975
+            }
+        ]
+    },
+    "B08DDSCCRT": {
+        "name": "Samsung 7.0 Kg Inverter 5 star Top Loading Washing Machine (WT70M3200HB/TL, Light Grey, Air turbo drying)",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.4586540476862979
+            },
+            {
+                "Included Components": 0.3320727022692226
+            },
+            {
+                "Material": 0.31303808000701266
+            },
+            {
+                "Best Sellers Rank": 0.18608800556352656
+            },
+            {
+                "Customer Reviews": 0.1808839120606866
+            }
+        ]
+    },
+    "B0BB7ZJFTV": {
+        "name": "Sansui 9 kg Semi Automatic Top Load Washing Machine JSP90S-2022L (Burgundy) With Dual Waterfall Technology",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.4567399133899736
+            },
+            {
+                "Colour": 0.42047063238624904
+            },
+            {
+                "Maximum Rotational Speed": 0.4166014704126144
+            },
+            {
+                "Included Components": 0.4059629316748737
+            },
+            {
+                "Access Location": 0.3830551744548524
+            }
+        ]
+    },
+    "B09QM4NT19": {
+        "name": "IFB 6.5 Kg 5 Star Front Load Washing Machine 2X Power Steam (SENORITA SXS 6510, Silver & Black, In-built Heater, 4 years Comprehensive Warranty)",
+        "predicted_attributes": [
+            {
+                "Colour": 0.45324310185167177
+            },
+            {
+                "Manufacturer": 0.4333720716999911
+            },
+            {
+                "Access Location": 0.4149756940212061
+            },
+            {
+                "Batteries Required": 0.41251578151267365
+            },
+            {
+                "Customer Reviews": 0.3392989135857215
+            }
+        ]
+    },
+    "B08C33ZG82": {
+        "name": "LG 8.0 Kg Inverter Fully-Automatic Top Loading Washing Machine (T80SJSF1Z, Middle Free Silver)",
+        "predicted_attributes": [
+            {
+                "Model": 0.45097817612006896
+            },
+            {
+                "Maximum Rotational Speed": 0.4056987552091335
+            },
+            {
+                "Material": 0.31501616873691674
+            },
+            {
+                "Country of Origin": 0.22208202783594852
+            },
+            {
+                "ASIN": 0.20812370042292516
+            }
+        ]
+    },
+    "B08ZKL5PK2": {
+        "name": "LG 7.5 Kg 5 Star Smart Inverter Fully-Automatic Top Load Washing Machine (T75SKSF1Z, Middle Free Silver, TurboDrum | Smart Motion)",
+        "predicted_attributes": [
+            {
+                "Access Location": 0.4478614495337233
+            },
+            {
+                "Country of Origin": 0.38009138736389086
+            },
+            {
+                "Customer Reviews": 0.31818860079249794
+            },
+            {
+                "Date First Available": 0.297630847977258
+            },
+            {
+                "Certification": 0.2747966679579425
+            }
+        ]
+    },
+    "B08J3KFLBS": {
+        "name": "Bosch 6.5 kg 5 Star Inverter Fully Automatic Front Load (WLJ2026DIN, Lux Silver, Inbuilt Heater)",
+        "predicted_attributes": [
+            {
+                "Model": 0.44734474638119526
+            },
+            {
+                "Special Features": 0.33863537151041834
+            },
+            {
+                "Material": 0.3219995533974001
+            },
+            {
+                "Country of Origin": 0.24057512940964615
+            },
+            {
+                "ASIN": 0.23076198119946117
+            }
+        ]
+    },
+    "B0BVRDB47D": {
+        "name": "Godrej 6.5 Kg 5 Star Fully-Automatic Top Loading Washing Machine (WTEON 650 AP 5.0 GPGR, Graphite Grey, Zero Pressure Technology, With Turbo 6 Pulsator, 2023 Model)",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.4446202102952338
+            },
+            {
+                "Maximum Rotational Speed": 0.3872353294359855
+            },
+            {
+                "Material": 0.3392293698509514
+            },
+            {
+                "Manufacturer": 0.30216366144626583
+            },
+            {
+                "Best Sellers Rank": 0.22320438081599087
+            }
+        ]
+    },
+    "B09T6NH99B": {
+        "name": "Samsung 7.0 Kg 5 Star Semi-Automatic Top Loading Washing Machine (WT70M3000UU/TL, LIGHT GRAY, Double Storm Pulsator)",
+        "predicted_attributes": [
+            {
+                "Material": 0.4386607643587264
+            },
+            {
+                "Colour": 0.4358055021899161
+            },
+            {
+                "Batteries Required": 0.40483565414016515
+            },
+            {
+                "Access Location": 0.39290950638818484
+            },
+            {
+                "Best Sellers Rank": 0.2861769845492613
+            }
+        ]
+    },
+    "B0BBD52R4J": {
+        "name": "Haier 8 Kg 5 Star Rating Semi Automatic Top load Washing Machine Double Storm Pulsator,(HTW80-186)",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.43658805220704566
+            },
+            {
+                "Material": 0.42278928330704735
+            },
+            {
+                "Colour": 0.4034727303249323
+            },
+            {
+                "Maximum Rotational Speed": 0.36917748505177445
+            },
+            {
+                "Access Location": 0.3650461456480152
+            }
+        ]
+    },
+    "B07V3SGB3G": {
+        "name": "AmazonBasics 7 kg Semi Automatic Top Load Washing Machine (with Heavy wash function, White)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.4356746872873805
+            },
+            {
+                "Capacity": 0.4102830431327567
+            },
+            {
+                "Part Number": 0.40241578438354936
+            },
+            {
+                "Model": 0.38433287067666644
+            },
+            {
+                "Included Components": 0.28042384339681276
+            }
+        ]
+    },
+    "B0BBNKHXVD": {
+        "name": "LG 8 Kg 5 Star Inverter Fully-Automatic Front Loading Washing Machine with Inbuilt heater (FHP1208Z3W, Blue White, AI DD Technology & Steam for Hygiene)",
+        "predicted_attributes": [
+            {
+                "Maximum Rotational Speed": 0.4326552907008043
+            },
+            {
+                "Colour": 0.41176489196602817
+            },
+            {
+                "Access Location": 0.379797435503797
+            },
+            {
+                "Manufacturer": 0.3368734687195987
+            },
+            {
+                "Customer Reviews": 0.2875167108673869
+            }
+        ]
+    },
+    "B0BDVHY3VB": {
+        "name": "LG 7 Kg 5 Star Inverter Wi-Fi Fully-Automatic Front Load Washing Machine with In-Built Heater (FHV1207Z4M, Middle Black, AI DD Technology & Steam for Hygiene Wash)",
+        "predicted_attributes": [
+            {
+                "Material": 0.4319058141590854
+            },
+            {
+                "Country of Origin": 0.3404902002182554
+            },
+            {
+                "Customer Reviews": 0.3027477805657831
+            },
+            {
+                "Item Dimensions LxWxH": 0.18263849664144555
+            },
+            {
+                "Special Feature": 0.07882940269676501
+            }
+        ]
+    },
+    "B09ZBLDBLN": {
+        "name": "IFB 6 Kg 5 Star Front Load Washing Machine 2X Power Steam (DIVA AQUA SXS 6008, Silver, In-built Heater, 4 years Comprehensive Warranty)",
+        "predicted_attributes": [
+            {
+                "Maximum Rotational Speed": 0.4274994653215891
+            },
+            {
+                "Batteries Required": 0.30682283985922265
+            },
+            {
+                "ASIN": 0.2588924275434463
+            },
+            {
+                "Certification": 0.19521372983509236
+            },
+            {
+                "Packer": 0.14003297800061293
+            }
+        ]
+    },
+    "B08SR372S7": {
+        "name": "Bosch 7 kg 5 Star Inverter Touch Control Fully Automatic Front Loading Washing Machine with In - built Heater (WAJ2416SIN, Silver)",
+        "predicted_attributes": [
+            {
+                "Special Features": 0.42673638517163043
+            },
+            {
+                "Material": 0.41698707249070976
+            },
+            {
+                "Best Sellers Rank": 0.23742811670191394
+            },
+            {
+                "Packer": 0.1871637474242207
+            },
+            {
+                "Special Feature": 0.05657638512614675
+            }
+        ]
+    },
+    "B07PP2X9TD": {
+        "name": "Classic\u00ae Front Load Washing Machine Cover for LG 8.5 Kg, 9 Kg, 9.5Kg, 10 Kg, 10.5 Kg, 11 Kg, 11.5 Kg 12 Kg (72Cmsx63Cmsx81Cms_Black,White) Pack of : 1 Washing Machin Cover",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.42590537775626036
+            },
+            {
+                "Model": 0.39177090009080523
+            },
+            {
+                "Maximum Rotational Speed": 0.36287025761517044
+            },
+            {
+                "Special Features": 0.32853941422178506
+            },
+            {
+                "Access Location": 0.3181530241696553
+            }
+        ]
+    },
+    "B07PYKH85R": {
+        "name": "Classic\u00ae Front Load Washing Machine Cover for Bosch 6.5 Kg, 7 Kg, 7.5 Kg, 8 Kg, 8.5 Kg, 9 Kg, & 10 Kg (63cmsX63cmsX81cms) Black & Grey",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.42363885503757226
+            },
+            {
+                "Maximum Rotational Speed": 0.3640923802236328
+            },
+            {
+                "Special Features": 0.32909672392127587
+            },
+            {
+                "Access Location": 0.31898049677036977
+            },
+            {
+                "Certification": 0.19713536324179987
+            }
+        ]
+    },
+    "B09R1R7NMR": {
+        "name": "Bosch 6.5 Kg 5 Star Fully Automatic Top Load Washing Machine WOE651D0IN (Dark Grey)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.4217005853359819
+            },
+            {
+                "Colour": 0.3117493793783652
+            },
+            {
+                "Maximum Rotational Speed": 0.29922436946710157
+            },
+            {
+                "Material": 0.2804700770442866
+            },
+            {
+                "Special Features": 0.2701616693869578
+            }
+        ]
+    },
+    "B0BSNNT9JY": {
+        "name": "Voltas Beko 9 kg Semi Automatic Twin Tub Washing machine (WTT90UDX/BKGR4KPTD) Black - ECO Model",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.41281728893634845
+            },
+            {
+                "Capacity": 0.392988645224293
+            },
+            {
+                "Material": 0.3586865701409736
+            },
+            {
+                "Maximum Rotational Speed": 0.3419595765484205
+            },
+            {
+                "Special Features": 0.33051398300279305
+            }
+        ]
+    },
+    "B0BJ2Z6JVS": {
+        "name": "Samsung 7 Kg '5 Star Ecobubble\u2122 Wi-Fi, Inverter Fully Automatic Top Load Washing Machine (WA70BG4542BYTL_Lavender Gray), Bubble Storm technology",
+        "predicted_attributes": [
+            {
+                "Colour": 0.41158181059931054
+            },
+            {
+                "Maximum Rotational Speed": 0.3985823264117347
+            },
+            {
+                "Access Location": 0.37269945231195745
+            },
+            {
+                "Special Features": 0.3634303966624688
+            },
+            {
+                "Batteries Required": 0.3606275036264265
+            }
+        ]
+    },
+    "B09T6TL8ZR": {
+        "name": "Samsung 9 Kg 5 Star Inverter Fully-Automatic Front Loading Washing Machine (WW90T4040CX1TL, Inox, In-Built Heater)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.4107259044186181
+            },
+            {
+                "Model": 0.3742990833068863
+            },
+            {
+                "Special Features": 0.27578836002934254
+            },
+            {
+                "Country of Origin": 0.2529303375234646
+            },
+            {
+                "Manufacturer": 0.25042054489177384
+            }
+        ]
+    },
+    "B09YD9QDXX": {
+        "name": "Panasonic 7 Kg 5 Star Fully-Automatic Top Loading Washing Machine (NA-F70LF2MRB, Light Grey, 12 Wash Program, Active Foam Wash Technology, Antibacterial Water Inlet)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.41033237154219415
+            },
+            {
+                "Capacity": 0.3599400680749763
+            },
+            {
+                "Part Number": 0.34508404582623275
+            },
+            {
+                "Colour": 0.324195853342343
+            },
+            {
+                "Access Location": 0.2875413748657584
+            }
+        ]
+    },
+    "B08DF1RHFZ": {
+        "name": "LG 8 Kg 5 Star Inverter Fully-Automatic Top Loading Washing Machine (T80SJMB1Z, Middle Black, Jet Spray+)",
+        "predicted_attributes": [
+            {
+                "Maximum Rotational Speed": 0.4053976712634208
+            },
+            {
+                "Colour": 0.37850006944704473
+            },
+            {
+                "Special Features": 0.35078488373300404
+            },
+            {
+                "Manufacturer": 0.2713634213160014
+            },
+            {
+                "Country of Origin": 0.2710988987876562
+            }
+        ]
+    },
+    "B08TMKTX98": {
+        "name": "Classic\u00ae Top Load Washing Machine Cover Suitable for LG 6 kg, 6.2 kg, 6.5 kg, 7 kg, 7.2 kg, 7.5 kg (56cms X 56cms X 85cms) Red Flower",
+        "predicted_attributes": [
+            {
+                "Brand": 0.3915147095557823
+            },
+            {
+                "Capacity": 0.34389459018626894
+            },
+            {
+                "Model": 0.3128950984860087
+            },
+            {
+                "Material": 0.3025659829820234
+            },
+            {
+                "Maximum Rotational Speed": 0.2900304354248964
+            }
+        ]
+    },
+    "B0C1MZ7BL3": {
+        "name": "Whirlpool 7.5 Kg 5 Star Royal Fully-Automatic Top Load Washing Machine (WHITEMAGIC ROYAL 7.5 GENX, Grey, Hard Water Wash)",
+        "predicted_attributes": [
+            {
+                "Maximum Rotational Speed": 0.3822630750422094
+            },
+            {
+                "Material": 0.35865068156108226
+            },
+            {
+                "Batteries Required": 0.31532805232272787
+            },
+            {
+                "Access Location": 0.312806259554049
+            },
+            {
+                "Customer Reviews": 0.21614380612725526
+            }
+        ]
+    },
+    "B0B2RV47TK": {
+        "name": "ONIDA 7.5 kg 5 Star Fully Automatic Top Load Washing Machine (T75CMDG, Dark Grey, Hexa Crystal Drum)",
+        "predicted_attributes": [
+            {
+                "Material": 0.38041875357558264
+            },
+            {
+                "Manufacturer": 0.3303822104696045
+            },
+            {
+                "Country of Origin": 0.3245790586452495
+            },
+            {
+                "Date First Available": 0.2599132921349938
+            },
+            {
+                "Best Sellers Rank": 0.25701019465488717
+            }
+        ]
+    },
+    "B0BF5RGZ8V": {
+        "name": "LG 8 Kg 5 Star Inverter Fully-Automatic Top Load Washing Machine (T80SKSF1Z, Middle Free Silver, Turbodrum)",
+        "predicted_attributes": [
+            {
+                "Maximum Rotational Speed": 0.3777016407482094
+            },
+            {
+                "Included Components": 0.2996299335543668
+            },
+            {
+                "Access Location": 0.29538340814156216
+            },
+            {
+                "Manufacturer": 0.2656171910192197
+            },
+            {
+                "Country of Origin": 0.25653916544180994
+            }
+        ]
+    },
+    "B08DH9PKJ2": {
+        "name": "LG 7 kg Inverter Fully-Automatic Top Loading Washing Machine (T70SPSF2Z, Middle Free Silver)",
+        "predicted_attributes": [
+            {
+                "Colour": 0.37649759095783036
+            },
+            {
+                "Manufacturer": 0.2518773917735283
+            },
+            {
+                "Date First Available": 0.22551533933951703
+            },
+            {
+                "Customer Reviews": 0.2182173721705129
+            },
+            {
+                "ASIN": 0.20961826619417104
+            }
+        ]
+    },
+    "B09ZBJYTBF": {
+        "name": "IFB 6 Kg 5 Star Front Load Washing Machine 2X Power Steam (DIVA PLUS BXS 6008, White & Black, In-built Heater, 4 years Comprehensive Warranty)",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.37252259349329186
+            },
+            {
+                "Colour": 0.3264674209945967
+            },
+            {
+                "Country of Origin": 0.16994735400293737
+            },
+            {
+                "ASIN": 0.16219166545601585
+            },
+            {
+                "Customer Reviews": 0.15697433339508315
+            }
+        ]
+    },
+    "B0B979F1Q8": {
+        "name": "Spenfrone Refrigerator Stand, Washing Machine Stand, Furniture Base Stand, Fridge Stands for Single Door and Double Door (Pack of 4) (Grey), Medium",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.360664973430051
+            },
+            {
+                "Colour": 0.3572312135636508
+            },
+            {
+                "Manufacturer": 0.35357758361251324
+            },
+            {
+                "Included Components": 0.34352142288270354
+            },
+            {
+                "Model": 0.34293506971790116
+            }
+        ]
+    },
+    "B08PZCS9J6": {
+        "name": "Bosch 6 kg 5 Star Fully Automatic Front Loading Washing Machine with In - built Heater (WLJ2016TIN, Luxe Silver )",
+        "predicted_attributes": [
+            {
+                "Brand": 0.3596863029678755
+            },
+            {
+                "Model": 0.31622731172655566
+            },
+            {
+                "Part Number": 0.28840465119087094
+            },
+            {
+                "Included Components": 0.24798428906174458
+            },
+            {
+                "Special Features": 0.24564113512310404
+            }
+        ]
+    },
+    "B09NN7P711": {
+        "name": "EOREVGM Portable Top Load Washing Machine, Foldable Mini Washing Machine For BaBy Clothes,Apartment Dorm,Travelling,Camping,Small Spaces,Gift For Friend Or Family(Blue)",
+        "predicted_attributes": [
+            {
+                "Model": 0.35849834493575056
+            },
+            {
+                "Colour": 0.31804211098068125
+            },
+            {
+                "Maximum Rotational Speed": 0.30384567682581765
+            },
+            {
+                "Included Components": 0.2756212381549351
+            },
+            {
+                "Special Features": 0.2659923619546625
+            }
+        ]
+    },
+    "B0B8NHPWZF": {
+        "name": "Samsung 9 Kg WiFi Enabled Inverter 5 Star Fully-Automatic Top Load Ecobubble Washing Machine (WA90BG4542BDTL, Bubble Storm technology, Dark Gray)",
+        "predicted_attributes": [
+            {
+                "Maximum Rotational Speed": 0.354493882809621
+            },
+            {
+                "Access Location": 0.27923272718454284
+            },
+            {
+                "Country of Origin": 0.20055141744531088
+            },
+            {
+                "ASIN": 0.1911344901093113
+            },
+            {
+                "Customer Reviews": 0.18811575280723947
+            }
+        ]
+    },
+    "B0BYVK2TPX": {
+        "name": "Bhayani Latest Mini Washing Machine Portable Folding Washing Machine Single Person Use Mobile Foldable Washing",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.3307403205258132
+            },
+            {
+                "Material": 0.31927280291561416
+            },
+            {
+                "Colour": 0.31535130526247634
+            },
+            {
+                "Capacity": 0.309905196820757
+            },
+            {
+                "Model": 0.28934114802354305
+            }
+        ]
+    },
+    "B07V3SGB2V": {
+        "name": "Amazon Basics 6.5 Kg Fully Automatic Top Loading Washing Machine, Grey",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.3272985464264661
+            },
+            {
+                "Included Components": 0.2945860212247372
+            },
+            {
+                "Material": 0.2778197425379091
+            },
+            {
+                "Maximum Rotational Speed": 0.27577267568701863
+            },
+            {
+                "Special Features": 0.25939962934293953
+            }
+        ]
+    },
+    "B09G9YTFVH": {
+        "name": "Stylista Washing Machine Cover Compatible for LG 7 KG Fully-Automatic Top Loading T70SKSF1Z Check Blue",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.3249865169980636
+            },
+            {
+                "Capacity": 0.3162401403011865
+            },
+            {
+                "Model": 0.2800200294850957
+            },
+            {
+                "Special Features": 0.2650835900168825
+            },
+            {
+                "Maximum Rotational Speed": 0.26279229708705076
+            }
+        ]
+    },
+    "B0B38Q299B": {
+        "name": "IFB 7 Kg 5 Star Front Load Washing Machine 2X Power Steam (NEO DIVA BXS 7010, White & Black, In-built Heater, 4 years Comprehensive Warranty)",
+        "predicted_attributes": [
+            {
+                "Material": 0.31914160062151786
+            },
+            {
+                "Batteries Required": 0.28369789305069787
+            },
+            {
+                "Packer": 0.0903367366572996
+            },
+            {
+                "Item Dimensions LxWxH": 0.08086676061289262
+            },
+            {
+                "Energy Efficiency": 0.0129912369396697
+            }
+        ]
+    },
+    "B07PVBFGMG": {
+        "name": "Classic\u00ae Front Load Washing Machine Cover for IFB 5.5 Kg 6 Kg & 6.5 Kg (50cmsX63cmsX81cms_Half White,Grey) Pack of : 1 Washing Machine Cover",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.31076513343239165
+            },
+            {
+                "Colour": 0.2853619969508414
+            },
+            {
+                "Model": 0.28517829635472136
+            },
+            {
+                "Maximum Rotational Speed": 0.26101014635626607
+            },
+            {
+                "Material": 0.24438180992656178
+            }
+        ]
+    },
+    "B0BDDJX1GB": {
+        "name": "GOPINATHJI Mini Foldable Washing Machine, Portable Washing Machine - Ultrasonic Cleaning Machine, Small Automatic Portable Underwear Folding Washing Machine",
+        "predicted_attributes": [
+            {
+                "Brand": 0.30432476558601523
+            },
+            {
+                "Material": 0.26038030695315595
+            },
+            {
+                "Part Number": 0.2523180148643391
+            },
+            {
+                "Model": 0.2512955455981951
+            },
+            {
+                "Colour": 0.24765621166193966
+            }
+        ]
+    },
+    "B0BQ3L5YLB": {
+        "name": "Marvella Mini Foldable Top Load Washing Machine Portable, Small Automatic Cleaning Washer with Capacity of 2 kg, Multicolour",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.30203895023794725
+            },
+            {
+                "Colour": 0.2973488237940978
+            },
+            {
+                "Material": 0.29646902104966444
+            },
+            {
+                "Model": 0.2937592422743143
+            },
+            {
+                "Access Location": 0.2657109880544804
+            }
+        ]
+    },
+    "B08YJBC8YW": {
+        "name": "Star Weaves Washing Machine Cover For Semi Automatic Top Load LG P8539R3SM 7.5 Kg Model - Waterproof & Dustproof Cover, KUM84",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.297769887513582
+            },
+            {
+                "Capacity": 0.288441448728112
+            },
+            {
+                "Model": 0.25978722743416177
+            },
+            {
+                "Maximum Rotational Speed": 0.2532020282258497
+            },
+            {
+                "Included Components": 0.24950302659059584
+            }
+        ]
+    },
+    "B07C6JPPX8": {
+        "name": "Classic\u00ae Top Load Washing Machine Cover Suitable for Samsung Back Panel 6.2 Kg, 6.5 Kg, 7.0 Kg, 7.2 Kg, 7.5 Kg (Black & Grey, 55cms X 55cms X 92cms)",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.29700249215569446
+            },
+            {
+                "Model": 0.27469444788652825
+            },
+            {
+                "Included Components": 0.2585163046209061
+            },
+            {
+                "Maximum Rotational Speed": 0.25812784538801103
+            },
+            {
+                "Material": 0.23570529015540503
+            }
+        ]
+    },
+    "B08YQZPDGK": {
+        "name": "Godrej 8 Kg 5 Star Semi-Automatic Top Loading Washing Machine (WSEDGE CLS 80 5.0 PN2 M WNRD, Wine Red)",
+        "predicted_attributes": [
+            {
+                "Access Location": 0.29189578618088313
+            },
+            {
+                "ASIN": 0.2003996014098072
+            },
+            {
+                "Country of Origin": 0.19933309923044035
+            },
+            {
+                "Certification": 0.17697097065657552
+            },
+            {
+                "Date First Available": 0.16403529120750962
+            }
+        ]
+    },
+    "B0BPM13588": {
+        "name": "ZADIC Mini Foldable Washing Machine | Undergarments and use in travel also | Ultrasonic Best Cleaning Machine |Traveling Small Automatic Portable Underwear Folding 2Kg Mini Washing Machine Portable [Multicolor]",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.2918494185868075
+            },
+            {
+                "Maximum Rotational Speed": 0.23731147853959456
+            },
+            {
+                "Special Features": 0.2275217010143607
+            },
+            {
+                "Access Location": 0.2124542582985565
+            },
+            {
+                "Batteries Required": 0.18850562969688625
+            }
+        ]
+    },
+    "B09GYFKX1C": {
+        "name": "Stylista Washing Machine Cover Compatible for Bosch 8 Kg Fully-Automatic Front Loading WAJ28262IN Grey",
+        "predicted_attributes": [
+            {
+                "Brand": 0.2899616047476034
+            },
+            {
+                "Part Number": 0.2571665421604658
+            },
+            {
+                "Capacity": 0.2474358181639189
+            },
+            {
+                "Model": 0.22769450215105824
+            },
+            {
+                "Maximum Rotational Speed": 0.21362086116279289
+            }
+        ]
+    },
+    "B0B5PB9RBW": {
+        "name": "Cloudd Mini Folding Washing Machine Portable,Foldable Compact Ultrasonic Small Automatic USB Powered Cleaning Washer for Travel Home",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.28311036233157094
+            },
+            {
+                "Capacity": 0.2678836537824145
+            },
+            {
+                "Model": 0.25490162751158935
+            },
+            {
+                "Maximum Rotational Speed": 0.23749821105265678
+            },
+            {
+                "Special Features": 0.2279838658447843
+            }
+        ]
+    },
+    "B07YW7D561": {
+        "name": "ELITE PRODUCTS Top Load Washing Machine Cover Suitable for Samsung {Back Panel-New Model} 6.5KG,7KG,7.5KG",
+        "predicted_attributes": [
+            {
+                "Brand": 0.2771979834498596
+            },
+            {
+                "Part Number": 0.2586545837950637
+            },
+            {
+                "Colour": 0.2432619964499942
+            },
+            {
+                "Capacity": 0.23615138525969398
+            },
+            {
+                "Model": 0.21721134255503627
+            }
+        ]
+    },
+    "B0826Y7LLL": {
+        "name": "Haier 6 kg Fully-Automatic Top Loading Washing Machine (HWM60-1269DB, Moonlight Grey)",
+        "predicted_attributes": [
+            {
+                "Included Components": 0.27675288064231623
+            },
+            {
+                "Special Features": 0.27215253351054436
+            },
+            {
+                "Material": 0.25961894002524893
+            },
+            {
+                "Country of Origin": 0.2166796714826353
+            },
+            {
+                "Best Sellers Rank": 0.16665864181129958
+            }
+        ]
+    },
+    "B08KRR59JG": {
+        "name": "Voltas beko 8.2 kg Semi Automatic twin tub Washing machine (WTT82) Burgundy",
+        "predicted_attributes": [
+            {
+                "Colour": 0.274305077906651
+            },
+            {
+                "Maximum Rotational Speed": 0.27319788251779226
+            },
+            {
+                "Access Location": 0.24635834747428484
+            },
+            {
+                "Special Features": 0.23748231916867055
+            },
+            {
+                "Manufacturer": 0.2062050739440569
+            }
+        ]
+    },
+    "B08SR4L6X2": {
+        "name": "Bosch 8 kg 5 Star Touch Control Fully Automatic Front Load with Heater (WAJ2426AIN, White)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.2742495531271018
+            },
+            {
+                "Model": 0.23736347341781175
+            },
+            {
+                "Part Number": 0.19748116706772983
+            },
+            {
+                "Special Features": 0.16972103911163403
+            },
+            {
+                "Included Components": 0.15479443289978784
+            }
+        ]
+    },
+    "B08SR624PS": {
+        "name": "Bosch 7 kg 5 Star 1000RPM INVERTER TOUCH CONTROL Fully Automatic Front Load with Heater White(WAJ2006EIN)",
+        "predicted_attributes": [
+            {
+                "Material": 0.2673477019531601
+            },
+            {
+                "Special Features": 0.2473817427906215
+            },
+            {
+                "Access Location": 0.2379541237971298
+            },
+            {
+                "Manufacturer": 0.22489811457582504
+            },
+            {
+                "Certification": 0.14818838550226243
+            }
+        ]
+    },
+    "B0B2Q1QJ12": {
+        "name": "Godrej 7 Kg 5 Star Fully-Automatic Top Loading Washing Machine (WTEON 700 5.0 AP GPGR, Graphite Grey)",
+        "predicted_attributes": [
+            {
+                "Batteries Required": 0.2623847807636803
+            },
+            {
+                "Certification": 0.1766021577597034
+            },
+            {
+                "Customer Reviews": 0.16646163819593895
+            },
+            {
+                "Date First Available": 0.14283669222737805
+            },
+            {
+                "Item Dimensions LxWxH": 0.08217743686307699
+            }
+        ]
+    },
+    "B09PJGK2CX": {
+        "name": "REZDAX Anti-Vibration pad for Washing machine-4-piece Set of stabilizer for Washing Machine-Noise Reduction Washing Machine Base-Universal Anti-Slip Design for Pulsator/Drum (Light Grey)",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.23040672846804433
+            },
+            {
+                "Capacity": 0.22290235316213117
+            },
+            {
+                "Model": 0.1969033530560364
+            },
+            {
+                "Material": 0.19535537512076623
+            },
+            {
+                "Maximum Rotational Speed": 0.18474353104506552
+            }
+        ]
+    },
+    "B0BQFLNY58": {
+        "name": "Grabndelas Semi Autometic Washing Machine Cover Fit For All Brand Universal Size 6kg, 6.5Kg, 7Kg, 7.5Kg, 8Kg, 8.5Kg (Black Patti)",
+        "predicted_attributes": [
+            {
+                "Colour": 0.22701427454126027
+            },
+            {
+                "Manufacturer": 0.2160473158260186
+            },
+            {
+                "Part Number": 0.2150947773139776
+            },
+            {
+                "Capacity": 0.20949315427039383
+            },
+            {
+                "Included Components": 0.19506328445645305
+            }
+        ]
+    },
+    "B09MJ7JLDJ": {
+        "name": "Celeritas Washing Machine Stand, Refrigerator Stand, Furniture Base Stand for Washing Machine, Fridge Stands for Single Door and Double Door (Pack of 4) (Grey), Medium",
+        "predicted_attributes": [
+            {
+                "Brand": 0.2119676843966495
+            },
+            {
+                "Manufacturer": 0.1822485382304291
+            },
+            {
+                "Included Components": 0.17433261302626207
+            },
+            {
+                "Model": 0.17248444259850507
+            },
+            {
+                "Material": 0.16924372910359467
+            }
+        ]
+    },
+    "B08SR5BPLK": {
+        "name": "Bosch 8 kg 5 Star Inverter Touch Control Fully Automatic Front Loading Washing Machine with In- built Heater (WAJ2426MIN,White)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.21196742510649386
+            },
+            {
+                "Included Components": 0.19700985172104457
+            },
+            {
+                "Part Number": 0.1869127470064678
+            },
+            {
+                "Colour": 0.18574730976531934
+            },
+            {
+                "Material": 0.1846981129060053
+            }
+        ]
+    },
+    "B07VT3ZM56": {
+        "name": "ELITE PRODUCTS Front Load IFB Washing Machine Cover (6.5, 7, 7.5 and 8 Kg, 63 X63 X81 cm)",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.2007971817014856
+            },
+            {
+                "Model": 0.18877914635453183
+            },
+            {
+                "Maximum Rotational Speed": 0.17695094186394172
+            },
+            {
+                "Colour": 0.1726897343130165
+            },
+            {
+                "Included Components": 0.15537644500355152
+            }
+        ]
+    },
+    "B08JQGJVWM": {
+        "name": "KANUSHI Industries\u00ae Washable & Dustproof Front Load Automatic Washing Machine Cover (Suitable for 6 Kg, 6.5 kg, 7 kg, 7.5 kg) (WASMAC-BLACK-BOX-FRONT-01)",
+        "predicted_attributes": [
+            {
+                "Capacity": 0.19513529694990678
+            },
+            {
+                "Part Number": 0.19462020962883783
+            },
+            {
+                "Colour": 0.19450807576391807
+            },
+            {
+                "Model": 0.17216162485236303
+            },
+            {
+                "Access Location": 0.16675744367177847
+            }
+        ]
+    },
+    "B09GV4WWYT": {
+        "name": "Stylista Washing Machine Cover Compatible for Samsung 7 Kg Fully-Automatic Top Loading WA70A4002GS, Check Blue",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.18995173967541343
+            },
+            {
+                "Capacity": 0.18936726478938876
+            },
+            {
+                "Model": 0.16482172048602292
+            },
+            {
+                "Special Features": 0.15873664210375563
+            },
+            {
+                "Maximum Rotational Speed": 0.1584368921694375
+            }
+        ]
+    },
+    "B089T7KCLS": {
+        "name": "AMPEREUS Top Load Washing Machine Cover Compatible for Samsung Front Panel 6 kg, 6.2 Kg, 6.5 Kg, 7 Kg, 7.2, 7.5 Kg (55cmsX55cmsX85cms) Black & Grey",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.16387676269674467
+            },
+            {
+                "Capacity": 0.1527409238425373
+            },
+            {
+                "Material": 0.14091381938155223
+            },
+            {
+                "Included Components": 0.14021484767744186
+            },
+            {
+                "Model": 0.13801690522235632
+            }
+        ]
+    },
+    "B08D3WJG5B": {
+        "name": "Godrej 8 Kg 5 Star Semi-Automatic Top Loading Washing Machine (WSEDGE ULT 80 5.0 DB2M CSBK, Crystal Black, Tri-Roto Scrub Pulsator)",
+        "predicted_attributes": [
+            {
+                "Brand": 0.15643508838092926
+            },
+            {
+                "Model": 0.1387333497554311
+            },
+            {
+                "Part Number": 0.11880977860810081
+            },
+            {
+                "Maximum Rotational Speed": 0.1122483501568542
+            },
+            {
+                "Special Features": 0.10683829168737695
+            }
+        ]
+    },
+    "B09NW1JX67": {
+        "name": "WOAH Top Load Washing Machine Cover Fit For Most Top-loading Washers/Dryers Washer Covers Waterproof Dustproof Sun-proof for - 6 kg, 6.5 Kg, 7 Kg, 7.5 Kg(Black)",
+        "predicted_attributes": [
+            {
+                "Colour": 0.13449193775905063
+            },
+            {
+                "Part Number": 0.13234705868576088
+            },
+            {
+                "Capacity": 0.12360549305633464
+            },
+            {
+                "Model": 0.11119041120559918
+            },
+            {
+                "Access Location": 0.11050185415471814
+            }
+        ]
+    },
+    "B07SSRRT1H": {
+        "name": "Elite Products Front Load Washing Machine Cover Suitable for 6.5 kg, 7kg & 7.5 KG (Fits for IFB,LG,Samsung) Waterproof & Dustproof (GRAY)",
+        "predicted_attributes": [
+            {
+                "Material": 0.13448492231078857
+            },
+            {
+                "Part Number": 0.13025540964864046
+            },
+            {
+                "Colour": 0.12806998024679722
+            },
+            {
+                "Included Components": 0.12578230395119142
+            },
+            {
+                "Capacity": 0.11572253538960867
+            }
+        ]
+    },
+    "B07MVJNK41": {
+        "name": "Whirlpool Renque Scalegon for Front/Top Loading Washing Machine, 300 gm-Combo Pack of 3",
+        "predicted_attributes": [
+            {
+                "Country of Origin": 0.12929865006603575
+            },
+            {
+                "Manufacturer": 0.12805331198767703
+            },
+            {
+                "Part Number": 0.11956702442636005
+            },
+            {
+                "Included Components": 0.1191877379706687
+            },
+            {
+                "Colour": 0.11672415990696702
+            }
+        ]
+    },
+    "B09XB53CS9": {
+        "name": "Amazon Brand - Umi. Top Load Washing Machine Cover Suitable for Samsung Back Panel 8 Kg, 8.5 Kg, 9.0 Kg, 9.5 Kg, 10.0 Kg (63X63X93 CMS, Grey)",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.09611385929633323
+            },
+            {
+                "Colour": 0.09578480709409323
+            },
+            {
+                "Capacity": 0.09364746953236633
+            },
+            {
+                "Model": 0.08456573635138444
+            },
+            {
+                "Maximum Rotational Speed": 0.08039559606847138
+            }
+        ]
+    },
+    "B09G6VSYC3": {
+        "name": "Wings Star LG Top Load Washing Machine Cover for 6 kg, 6.2 Kg, 6.5 Kg, 7 Kg (58 X 58 X 88 cm) | Waterproof & Dust-Proof Top Loading Fully Automatic Washing Machine Cover for LG, KUM112",
+        "predicted_attributes": [
+            {
+                "Brand": 0.0871206019204373
+            },
+            {
+                "Colour": 0.06873248660643683
+            },
+            {
+                "Part Number": 0.06404001143847132
+            },
+            {
+                "Capacity": 0.062170993893278736
+            },
+            {
+                "Model": 0.056431174114639146
+            }
+        ]
+    },
+    "B08M643JST": {
+        "name": "IFB 8 Kg 5 Star Front Load Washing Machine 2X Power Steam (SENATOR WSS 8014, Silver, In-built Heater, 4 years Comprehensive Warranty)",
+        "predicted_attributes": [
+            {
+                "Colour": 0.07218299429607006
+            },
+            {
+                "Capacity": 0.07131518137716854
+            },
+            {
+                "Part Number": 0.06792159499200906
+            },
+            {
+                "Maximum Rotational Speed": 0.0663765501901181
+            },
+            {
+                "Special Features": 0.062342714414926045
+            }
+        ]
+    },
+    "B07VSFRY79": {
+        "name": "Elite Products Front Load Washing Machine Cover Suitable for All Bosch Front Load Washing Machines. (6.5 kg,7kg,7.5kg,8kg,8.5kg,9kg)(63cmsX63cmsX81cms)",
+        "predicted_attributes": [
+            {
+                "Part Number": 0.06225750271015309
+            },
+            {
+                "Capacity": 0.05627470309595865
+            },
+            {
+                "Maximum Rotational Speed": 0.05290305762933044
+            },
+            {
+                "Model": 0.052885844817764094
+            },
+            {
+                "Special Features": 0.05102341992209933
+            }
+        ]
+    },
+    "B09NFN4VQ8": {
+        "name": "Star Weaves Waterproof & Dust-Proof Top Loading Fully Automatic Washing Machine Cover for 6 kg, 6.5 kg,7kg & 7.5 kg -(Grey )",
+        "predicted_attributes": [
+            {
+                "Material": 0.040630841057382384
+            },
+            {
+                "Item Weight": 0.039030977216492374
+            },
+            {
+                "Included Components": 0.03680649232445466
+            },
+            {
+                "Manufacturer": 0.03614678507948397
+            },
+            {
+                "Country of Origin": 0.035831609975740204
+            }
+        ]
+    },
+    "B07J9Y42WJ": {
+        "name": "Akshar Portable Bucket Washing Machine Multi Colors",
+        "predicted_attributes": [
+            {
+                "ASIN": 0.02465989459720162
+            },
+            {
+                "Item Dimensions LxWxH": 0.024012547695963078
+            },
+            {
+                "Country of Origin": 0.023440557530251663
+            },
+            {
+                "Best Sellers Rank": 0.023385166060818294
+            },
+            {
+                "Date First Available": 0.022658107906894216
+            }
+        ]
+    }
+}
